@@ -26,14 +26,17 @@ A  Weather Application built using **HTML**, **Tailwind CSS**, and **JavaScript*
 ```bash
 git clone https://github.com/your-username/weatherapp.git
 cd weatherapp
-
-
+```
+---
 ### 2. Install Dependencies (Optional)
 If you’re using Tailwind CSS via npm:
 
-bash
-Copy code
+```bash
 npm install
-3. Open the App
+```
+---
+### 3. Open the App
 Simply open the index.html file in your browser to use the app.
+
+### ScreenShot
 ![Screenshot 2024-12-28 111410](https://github.com/user-attachments/assets/dee5b136-ad9a-47dd-bab6-360b288eb17b)
